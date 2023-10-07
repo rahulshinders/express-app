@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Express Name Registration App</h1>
+    <h1>my-name-API</h1>
 
   <p>This is a simple Node.js web application built with Express.js that allows users to register their names and view their registered names.</p>
 
